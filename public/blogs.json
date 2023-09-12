@@ -1,0 +1,48 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "https://example.com/cover1.jpg",
+      "Title": "The Mystery of the Hidden Treasure",
+      "AuthorImg": "https://example.com/author1.jpg",
+      "PostedDate": "September 5, 2023",
+      "ReadingTime": "12 minutes",
+      "Hashtags": ["#Mystery", "#Adventure", "#TreasureHunt"]
+    },
+    {
+      "ID": 67890,
+      "Cover": "https://example.com/cover2.jpg",
+      "Title": "Cooking Delights: A Culinary Journey",
+      "AuthorImg": "https://example.com/author2.jpg",
+      "PostedDate": "August 28, 2023",
+      "ReadingTime": "20 minutes",
+      "Hashtags": ["#Cooking", "#Foodie", "#Recipes"]
+    },
+    {
+      "ID": 23456,
+      "Cover": "https://example.com/cover3.jpg",
+      "Title": "Exploring the Cosmos: A Space Odyssey",
+      "AuthorImg": "https://example.com/author3.jpg",
+      "PostedDate": "July 15, 2023",
+      "ReadingTime": "30 minutes",
+      "Hashtags": ["#Space", "#Astronomy", "#Exploration"]
+    },
+    {
+      "ID": 78901,
+      "Cover": "https://example.com/cover4.jpg",
+      "Title": "Mindfulness Meditation for Inner Peace",
+      "AuthorImg": "https://example.com/author4.jpg",
+      "PostedDate": "June 10, 2023",
+      "ReadingTime": "15 minutes",
+      "Hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
+    },
+    {
+      "ID": 34567,
+      "Cover": "https://example.com/cover5.jpg",
+      "Title": "Historical Heroes: Legends of the Past",
+      "AuthorImg": "https://example.com/author5.jpg",
+      "PostedDate": "May 3, 2023",
+      "ReadingTime": "18 minutes",
+      "Hashtags": ["#History", "#Legends", "#Heroes"]
+    }
+  ]
+  
