@@ -1,48 +1,55 @@
 [
-    {
-      "ID": 12345,
-      "Cover": "https://example.com/cover1.jpg",
-      "Title": "The Mystery of the Hidden Treasure",
-      "AuthorImg": "https://example.com/author1.jpg",
-      "PostedDate": "September 5, 2023",
-      "ReadingTime": "12 minutes",
-      "Hashtags": ["#Mystery", "#Adventure", "#TreasureHunt"]
-    },
-    {
-      "ID": 67890,
-      "Cover": "https://example.com/cover2.jpg",
-      "Title": "Cooking Delights: A Culinary Journey",
-      "AuthorImg": "https://example.com/author2.jpg",
-      "PostedDate": "August 28, 2023",
-      "ReadingTime": "20 minutes",
-      "Hashtags": ["#Cooking", "#Foodie", "#Recipes"]
-    },
-    {
-      "ID": 23456,
-      "Cover": "https://example.com/cover3.jpg",
-      "Title": "Exploring the Cosmos: A Space Odyssey",
-      "AuthorImg": "https://example.com/author3.jpg",
-      "PostedDate": "July 15, 2023",
-      "ReadingTime": "30 minutes",
-      "Hashtags": ["#Space", "#Astronomy", "#Exploration"]
-    },
-    {
-      "ID": 78901,
-      "Cover": "https://example.com/cover4.jpg",
-      "Title": "Mindfulness Meditation for Inner Peace",
-      "AuthorImg": "https://example.com/author4.jpg",
-      "PostedDate": "June 10, 2023",
-      "ReadingTime": "15 minutes",
-      "Hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
-    },
-    {
-      "ID": 34567,
-      "Cover": "https://example.com/cover5.jpg",
-      "Title": "Historical Heroes: Legends of the Past",
-      "AuthorImg": "https://example.com/author5.jpg",
-      "PostedDate": "May 3, 2023",
-      "ReadingTime": "18 minutes",
-      "Hashtags": ["#History", "#Legends", "#Heroes"]
-    }
-  ]
-  
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "September 15, 2023",
+      "reading_time": 5,
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "author": "Sajal Ali",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author": "Feroze Khan",
+      "posted_date": "July 10, 2023",
+      "reading_time": 10,
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author": "Anmol Baloch",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": [
+          "development",
+          "resources"
+      ]
+  }
+]
